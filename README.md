@@ -12,4 +12,10 @@
  - [ ] Threads 
  - [ ] Integração com o banco de dados
 ### Os participantes
+
+* Cristian Sousa
+* Diogo Onofre
+* Felipe Ramos
+* Gabriel Baptista
+
 ## Em breve, novidades

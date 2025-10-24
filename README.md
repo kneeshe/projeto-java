@@ -13,9 +13,9 @@
  - [ ] Integração com o banco de dados
 ### Os participantes
 
-* Cristian Sousa
-* Diogo Onofre
-* Felipe Ramos
-* Gabriel Baptista
+* [Cristian Sousa](github.com/kneeshe)
+* [Diogo Onofre](github.com/zzDIO04)
+* [Felipe Ramos](github.com/framos44)
+* [Gabriel Baptista](github.com/bapgab)
 
 ## Em breve, novidades
